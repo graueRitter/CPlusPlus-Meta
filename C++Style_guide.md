@@ -1,5 +1,5 @@
 # White space layout:
-- essentially kernel style, with indentation provided by tabs (default = 8):
+- essentially kernel style, with indentation provided by tab character:
   - [kernel
 layout](https://www.kernel.org/doc/html/latest/process/coding-style.html)
   - [Stroustrup layout
